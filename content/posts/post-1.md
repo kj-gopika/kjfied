@@ -1,7 +1,7 @@
 ---
 title: "It Happened - Finally"
 date: 2018-03-18
-description : "No I did not get Married"
+description : "No I did not get married!"
 tags: [Time]
 draft: false
 type: "posts"
