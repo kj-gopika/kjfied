@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on KJfied</title>
+    <link>https://github.com/kj-gopika/kjfied/tags/</link>
+    <description>Recent content in Tags on KJfied</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/kj-gopika/kjfied/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time</title>
+      <link>https://github.com/kj-gopika/kjfied/tags/Time/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/kj-gopika/kjfied/tags/Time/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
