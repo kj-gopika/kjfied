@@ -1,6 +1,7 @@
 baseURL = "https://github.com/kj-gopika/kjfied"
 languageCode = "en-us"
 title = "KJfied"
+theme = "ezhil"
 
 
 # Enable syntax highlighting.
