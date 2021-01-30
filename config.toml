@@ -1,4 +1,4 @@
-baseURL = "https://github.com/kj-gopika/kjfied"
+baseURL = "https://kjfied.netlify.app/"
 languageCode = "en-us"
 title = "KJfied"
 theme = "ezhil"
