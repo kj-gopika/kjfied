@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "github.com/kj-gopika/kjfied"
 languageCode = "en-us"
 title = "KJfied"
 
@@ -18,7 +18,7 @@ summaryLength = 20
 
 [module]
   [[module.imports]]
-    path = "github.com/kj-gopika/kjfied"
+    path = "github.com/vividvilla/ezhil"
 
 
 [params]
