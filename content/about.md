@@ -18,6 +18,6 @@ Writes for [Kolaambi](https://substack.com/discover/kolaambi)
 
 Not active on Social Media.
 
-Reach via [Twitter](@https://twitter.com/kjfied)
+Reach via [Twitter](https://twitter.com/kjfied) 
 
 
