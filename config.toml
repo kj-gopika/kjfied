@@ -17,6 +17,8 @@ paginate = 10
 # Number of characters to show in summary.
 summaryLength = 20
 
+#tracking
+googleAnalytics =  "G-JG6SC29VKE"
 
 
 [params]
