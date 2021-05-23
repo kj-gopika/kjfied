@@ -27,8 +27,10 @@ At least in the rooms that I did manage to spent considerable time in, people we
 
 A factor which I liked about the platform is how it has verified accounts and not a thousand faceless bots to spew hateful content or organise targeted slandering of personas. Although I did manage to stumble upon a few groups which did have strongly opinionated questionable conversations which one ought to be wary about and maybe take it with a pinch of salt.
 
-The notifications most certainly did not help - one’s for when each new friend joined or when a new group started.
+The push notifications most certainly did not help - the one’s for when each new friend joined or when a new group has started or has been brewing for awhile!
 
 It turned to a situation where I started opening CH like I used to open Whatsapp unconsciously - FOMO maybe? 
 
 Anyhow, I did turn off the notifications for a week. Hopefully, the buzz would slowly die down sparing the quality.
+
+P.S : Sad for Twitter Spaces
