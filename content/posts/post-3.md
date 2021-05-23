@@ -1,7 +1,7 @@
 ---
-title: "Test"
-date: 2021-01-30
-description : "No I did not get married!"
+title: "Clubhouse Buzz"
+date: 2021-05-24
+description : "Yes, I did spent 5 hours on it!"
 tags: [rambling]
 draft: false
 type: "posts"
