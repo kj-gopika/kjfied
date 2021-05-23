@@ -7,49 +7,30 @@ draft: false
 type: "posts"
 ---
 
-Considerign the tidal wave of engagements, bridal showers, save the date's and weddings happening around us - I wouldn't blame if you thought so either.
+Clubhouse for Android launched on the 21st of March and since I had signed up for the pre-launch, I did receive it on the day itself.
 
-   ![Shocked](https://media.giphy.com/media/3oEjHKvjqt5pssL99C/giphy.gif)
+Of course, I was curious about what the hype was surrounding the application which created FOMO for the folks in Twitter to the point of creating invite chains and pay for it.
 
-But that's not this post is about.
+LOL. 
 
-I had been toying with an idea of having a site for self for a couple of years now. 
-It never really took off though. 
-
-Mostly due to procrastination.
-
-I used Wordpress initially and then later switched to Medium. I never published regularly although I had planned to do once a month in 2020. 
-
-#### That didn't happen either and I blame it on Covid and the lockdown. Ha Ha.
-
-It was during October 2020 that I finally took my debit card and purchased the domain. Basically my intention was to guilt myself to create one due by the Sunk Cost Effect of having made the purchase. 
-
-##  Guilt Driven Development - How about that?
-
-So Yeah, I purchased _**kjfied.com**_ from GoDaddy. 
-
-I think I fiddled around with a couple of static site generators before settling on Hugo. My plan was to use GitHub Pages to host.
-
-I was sure that I wanted something hassle free because I didn't want another reason to put off publishing regularly.
-
-Right when I purchased the domain, I had also made up my mind that I would host and publish the first post before Jan 2021.
-**[@ajjuism](https://www.instagram.com/ajjuism/?hl=en)** used to keep reminding on how I never started it now and then adding to the guilt. Ugh!
-
-Days flew by - quite literally till it reached last weekend of Jan 2021. I could not put it off anymore. 
-
-On Saturday (30th Jan), I fired up by laptop by around 11am. I had installed all the prerequisites beforehand.
-Without spending a lot of time on choosing the *"perfect"* theme, I chose **[Ezhil](https://github.com/vividvilla/ezhil)** built by Vivek.
-
-It was important for me to keep in minimal.
-
-I used GitHub Desktop to push to the repo and Netlify to host. I had not used Netlify before but its quite easy breezy to set it up. 
-
-I completed the deployment by 4.47 PM. The issue that took up most of my time was due to the theme not getting rendered while publishing via Netlify because of a single line of hacky code that I copy pasted without properly understanding what it did. Ahem!
-
-###   Now that we have the site up and running - all that is left to do is to regularly, ahem, post, ahem.
+Over the course of the weekend, I somehow managed to use 4/5 of my invite links to get my friends onboard the platform and spent on an **average of 4-6 hours on it.**
 
 
 
+<p align="center">
+  <img width="400" height="300" src="https://trello-attachments.s3.amazonaws.com/5d18f3047411826d007bd6e3/60aab0efaa556c5e98f8c1a3/a36e2dd3e7f842e470d58b30c64a1ce6/Screenshot_20210524-005640__01_(2).jpg">
+</p>
 
+The interface was clean and the quality of both the audio and the conversations in some of the clubs/rooms were top notch.
 
+You could have discussions about various topics, some of them ranging from gender to privacy in tech, ethnic communities, startups and so forth with people from various professional backgrounds, languages and countries. To get their thoughts & perspectives real-time which you would otherwise rarely obtain on another media platform is a huge plus point. 
 
+At least in the rooms that I did manage to spent considerable time in, people were respectful and well behaved although I did hear accounts of raucous behaviour in groups when sensitive topics were mentioned. In fact, moderators were super careful enough to ensure that whenever the conversations started steering to dangerous zones that could potentially sow conflict, it was diffused.
+
+A factor which I liked about the platform is how it has verified accounts and not a thousand faceless bots to spew hateful content or organise targeted slandering of personas. Although I did manage to stumble upon a few groups which did have strongly opinionated questionable conversations which one ought to be wary about and maybe take it with a pinch of salt.
+
+The notifications most certainly did not help - one’s for when each new friend joined or when a new group started.
+
+It turned to a situation where I started opening CH like I used to open Whatsapp unconsciously - FOMO maybe? 
+
+Anyhow, I did turn off the notifications for a week. Hopefully, the buzz would slowly die down sparing the quality.
