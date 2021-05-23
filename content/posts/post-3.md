@@ -15,11 +15,7 @@ LOL.
 
 Over the course of the weekend, I somehow managed to use 4/5 of my invite links to get my friends onboard the platform and spent on an **average of 4-6 hours on it.**
 
-
-
-<p align="center">
-  <img width="400" height="300" src="https://trello-attachments.s3.amazonaws.com/5d18f3047411826d007bd6e3/60aab0efaa556c5e98f8c1a3/a36e2dd3e7f842e470d58b30c64a1ce6/Screenshot_20210524-005640__01_(2).jpg">
-</p>
+![time](https://trello-attachments.s3.amazonaws.com/5d18f3047411826d007bd6e3/60aab0efaa556c5e98f8c1a3/a36e2dd3e7f842e470d58b30c64a1ce6/Screenshot_20210524-005640__01_(2).jpg)
 
 The interface was clean and the quality of both the audio and the conversations in some of the clubs/rooms were top notch.
 
