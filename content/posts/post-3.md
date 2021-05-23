@@ -1,7 +1,7 @@
 ---
 title: "Clubhouse Buzz"
-date: 2021-01-30
-description : "5 hours,Yes"
+date: 2021-05-24
+description : "5 hours spent,Yes!"
 tags: [rambling]
 draft: false
 type: "posts"
