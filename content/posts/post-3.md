@@ -1,6 +1,6 @@
 ---
 title: "Clubhouse Buzz"
-date: 2021-05-24T20:07:37+00:00
+date: 2021-05-23T20:07:37+00:00
 description : "Yes, I did spent 5 hours on it!"
 tags: [rambling]
 draft: false
